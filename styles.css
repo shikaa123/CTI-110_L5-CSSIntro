@@ -1,0 +1,54 @@
+/*Main Color:#ca9944  */
+/*Dark Accent:#2C4D24  */
+/*Dark Shade:#4E6447  */
+/*Light Accent:#998b8b  */
+/*Light Shade:#FFFFFF   */
+
+body {
+    background-color:#FFFFFF;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.names {
+    background-color:#a8a8a8;
+    border: 3px solid #a8a8a8;
+    color:#2C4D24;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.desc {
+    color:#998b8b;
+}
+
+.note {
+   color:#4E6447;
+   margin:50px; 
+}
+
+#title {
+    font: size 200px;
+    color:#ca9944;
+}
+
+#after {
+    color: #4E6447;
+}
+
+#list {
+    padding:20px;
+}
+
+a:hover {
+    opacity: 0.5;
+    color:#ca9944;
+}
+
+a:visited {
+    color:#520303;
+}
+
+img {
+    height:150px;
+    width:120px;
+}
